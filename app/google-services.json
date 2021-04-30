@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "698133154743",
+    "firebase_url": "https://arduino-8776e-default-rtdb.firebaseio.com",
+    "project_id": "arduino-8776e",
+    "storage_bucket": "arduino-8776e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698133154743:android:a887578b65c3d1e7787632",
+        "android_client_info": {
+          "package_name": "com.accoumeh.rachad.homeautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698133154743-kdncejvqhra53e402s4qj1qms7m15vnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.accoumeh.rachad.homeautomation",
+            "certificate_hash": "5e9fa2eb70a317f95f6f20dc19d3a2c5a6bc0368"
+          }
+        },
+        {
+          "client_id": "698133154743-je71mpphphto88bgo2psjuu788qpnk4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5rNdmj-M_D9011CI7Dpy2ATzhsmmidc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698133154743-je71mpphphto88bgo2psjuu788qpnk4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
